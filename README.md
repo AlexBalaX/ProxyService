@@ -150,7 +150,7 @@ deletePrimary(cookie)
 print('Done')
 ```
 
-Responses are different with ProxyService: instead of just the body, a table is returned with a dictionary of headers in the `headers` field, the body in the `body` field, and the status code and message in the `status` field.
+Responses are different with ProxyService: instead of just the body, a table is returned with a dictionary of headers in the `headers` field, the body in the `body` field, and the status code and message in the `status` field.s
 
 Example response:
 
